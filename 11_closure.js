@@ -1,0 +1,1 @@
+// What is a “closure” in JavaScript? Provide an example.
